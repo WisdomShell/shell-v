@@ -46,7 +46,7 @@ Chaoya Jiang, Wei Ye*, Mengfan Dong, Hongrui Jia, Haiyang Xu, Ming Yan, Ji Zhang
 <img src="images/pipline.png" width="50%">
 </p>
 
-Our model, Shell-V, contructed based on the structure of [LLaVA1.5](), has further undertaken targeted enhancement in terms of representational learning (Hallucination Augumented Contrastive Learning) and Self Instruction Finetuning of LVLMs, which hones multi-modal hallucination (Kindly refer to our above papers for comprehensive details). Empirical evidence corroborates that Shell-V possesses the capability to effectively mitigate hallucination.  It has attained state-of-the-art performances across multiple multimodal hallucination evaluation benchmarks (such [MMhal-Eval](), [Hal-Eval](), [POPE]()).
+Our model, Shell-V, contructed based on the structure of [LLaVA1.5](https://arxiv.org/pdf/2310.03744.pdf) and Large Language Model [Shell](https://github.com/WisdomShell/shell), has further undertaken targeted enhancement in terms of representational learning (Hallucination Augumented Contrastive Learning) and Self Instruction Finetuning of LVLMs, which hones multi-modal hallucination (Kindly refer to our above papers for comprehensive details). Empirical evidence corroborates that Shell-V possesses the capability to effectively mitigate hallucination.  It has attained state-of-the-art performances across multiple multimodal hallucination evaluation benchmarks (such [MMhal-Eval](https://arxiv.org/pdf/2309.14525.pdf), [Hal-Eval](https://arxiv.org/abs/2402.15721), [POPE](https://arxiv.org/pdf/2305.10355.pdf)).
 
 ## Install
 
