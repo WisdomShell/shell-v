@@ -13,13 +13,14 @@
 
 
 <p align="center">
-    <img src="shell-v.png" width="400"/>
+    <img src="images/shell-v.png" width="400"/>
 <p>
 
 Our work is based on the following papers:
 
 **Hallucination Augmented Contrastive Learning for Multimodal Large Language Model** (CVPR 2024) [[Paper](https://arxiv.org/abs/2312.06968)] [[Code](https://github.com/X-PLUG/mPLUG-HalOwl)] <br>
 Chaoya Jiang, Haiyang Xu, Mengfan Dong, Jiaxing Chen, Wei Ye*, Ming Yan, Qinghao Ye, Ji Zhang, Fei Huang, Shikun Zhang. (*Corresponding Author)
+
 
 **Hal-Eval: A Universal and Fine-grained Hallucination Evaluation Framework for Large Vision Language Models.** (Under review) [[Paper](https://arxiv.org/abs/2402.15721)] [[Code](https://github.com/WisdomShell/hal-eval)]  <br>
 Chaoya Jiang, Wei Ye*, Mengfan Dong, Hongrui Jia, Haiyang Xu, Ming Yan, Ji Zhang, Shikun Zhang.  (*Corresponding Author)
@@ -28,9 +29,6 @@ Chaoya Jiang, Wei Ye*, Mengfan Dong, Hongrui Jia, Haiyang Xu, Ming Yan, Ji Zhang
 **Visual Instruction Tuning** (NeurIPS 2023, **Oral**) [[Paper](https://arxiv.org/abs/2304.08485)]<br>
 [Haotian Liu*](https://hliu.cc), [Chunyuan Li*](https://chunyuan.li/), [Qingyang Wu](https://scholar.google.ca/citations?user=HDiw-TsAAAAJ&hl=en/), [Yong Jae Lee](https://pages.cs.wisc.edu/~yongjaelee/) (*Equal Contribution)
 
-<p align="center">
-<img src="images/shell_v_logo.png" width="50%">
-</p>
 
 
 ## News
@@ -41,6 +39,14 @@ Chaoya Jiang, Wei Ye*, Mengfan Dong, Hongrui Jia, Haiyang Xu, Ming Yan, Ji Zhang
 
 <!-- <a href="https://shell_v.hliu.cc/"><img src="assets/demo.gif" width="70%"></a> -->
 
+## Introduction
+
+
+<p align="center">
+<img src="images/pipline.png" width="50%">
+</p>
+
+Our model, Shell-V, contructed based on the structure of [LLaVA1.5](), has further undertaken targeted enhancement in terms of representational learning (Hallucination Augumented Contrastive Learning) and Self Instruction Finetuning of LVLMs, which hones multi-modal hallucination (Kindly refer to our above papers for comprehensive details). Empirical evidence corroborates that Shell-V possesses the capability to effectively mitigate hallucination.  It has attained state-of-the-art performances across multiple multimodal hallucination evaluation benchmarks (such [MMhal-Eval](), [Hal-Eval](), [POPE]()).
 
 ## Install
 
