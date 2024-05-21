@@ -327,7 +327,17 @@ If you find shell_v useful for your research and applications, please cite using
 
 - [Visual Instruction Tuning](https://github.com/haotian-liu/LLaVA)
 
-
 For future project ideas, please check out:
 - [SEEM: Segment Everything Everywhere All at Once](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)
 - [Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) to detect, segment, and generate anything by marrying [Grounding DINO](https://github.com/IDEA-Research/GroundingDINO) and [Segment-Anything](https://github.com/facebookresearch/segment-anything).
+
+
+## License
+The community's use of the CodeShell model must adhere to the ["Shell-V Model License Agreement" ](https://github.com/WisdomShell/shell-v/blob/main/License.pdf) and the [ Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0). Shell-V is permitted for commercial use. However, if you plan to use the Shell-V model or its derivative products for commercial purposes, you must confirm that the entity meets the following conditions:
+
+- The daily average active user count (DAU) of the affiliated party's service or product cannot exceed 1 million.
+- The affiliated party must not be a software service provider or cloud service provider.
+- There is no possibility for the affiliated party to re-license the granted commercial license to another third party without proper authorization.
+
+Under the aforementioned conditions, you need to submit the application materials required by the "Shell-V Model License Agreement" by sending an email to shell.opensource@openbankai.com. After approval, you will be granted a global, non-exclusive, non-transferable, non-sublicensable commercial copyright license.
+
